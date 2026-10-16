@@ -1,0 +1,9 @@
+Presentación: 1 Android introducción(1).pdf
+Página: 79
+Ejercicio: 10
+
+Crear un enum class Nivel(val puntos: Int) con 
+BAJO(10), MEDIO(50), ALTO(100).
+Añadir un método esMayorQue(nivel: Nivel): 
+Boolean que compare niveles por puntos.
+Probar comparando distintos valores.

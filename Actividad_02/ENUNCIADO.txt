@@ -1,0 +1,9 @@
+Presentación: 1 Android introducción(1).pdf
+Página: 71
+Ejercicio: 2
+
+Crear una clase Automóvil con propiedades 
+marca, modelo y año. Definir un constructor 
+secundario que permita instanciar un automóvil 
+solo indicando marca y modelo, asignando un año 
+por defecto (ejemplo: 2025).

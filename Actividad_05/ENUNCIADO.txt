@@ -1,0 +1,17 @@
+Presentación: 1 Android introducción(1).pdf
+Página: 74
+Ejercicio: 5
+
+Definir una interfaz Reproducible con métodos 
+play() y pause().
+●Implementar esta interfaz en una clase Cancion 
+y otra Video.
+●En 
+main, 
+crear 
+una 
+lista 
+de 
+objetos 
+Reproducible y recorrela llamando a sus 
+métodos.

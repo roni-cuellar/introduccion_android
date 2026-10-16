@@ -1,0 +1,9 @@
+Presentación: 1 Android introducción(1).pdf
+Página: 70
+Ejercicio: 1
+
+Crea una clase Persona con propiedades nombre 
+y edad. Implementar un método presentarse() que 
+imprima un saludo con esos datos.
+Ejemplo esperado: "Hola, soy Ana y tengo 25 
+años".

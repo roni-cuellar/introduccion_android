@@ -1,0 +1,11 @@
+Presentación: 1 Android introducción(1).pdf
+Página: 72
+Ejercicio: 3
+
+Definir una clase Animal con el método hacerSonido().
+●Crear una subclase Perro que sobrescriba el método 
+para que imprima "Guau".
+●Crear una subclase Gato que sobrescriba el método 
+para que imprima "Miau".
+Luego, en main, crear una lista de animales y recorrerla 
+llamando a hacerSonido().

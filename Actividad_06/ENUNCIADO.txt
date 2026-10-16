@@ -1,0 +1,12 @@
+Presentación: 1 Android introducción(1).pdf
+Página: 75
+Ejercicio: 6
+
+Definir una interfaz Repositorio<T> con las funciones:
+●fun agregar(item: T)
+●fun obtener(id: Int): T
+●fun eliminar(id: Int)
+●fun tamano(): Int
+Implementar la interfaz en una clase RepositorioMemoria<T> 
+usando una lista interna.
+Probar con objetos de tipo String y Libro.

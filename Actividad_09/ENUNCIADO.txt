@@ -1,0 +1,8 @@
+Presentación: 1 Android introducción(1).pdf
+Página: 78
+Ejercicio: 9
+
+Crear un enum class Moneda(val simbolo: String) 
+con DOLAR("$"), EURO("€") y PESO("COP$").
+En main, imprimir los nombres y símbolos de 
+todas las monedas usando values().

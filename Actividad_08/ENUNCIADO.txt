@@ -1,0 +1,12 @@
+Presentación: 1 Android introducción(1).pdf
+Página: 77
+Ejercicio: 8
+
+Crear un enum class DiaSemana con los valores: 
+LUNES, 
+MARTES, 
+MIERCOLES, 
+JUEVES, 
+VIERNES, SABADO, DOMINGO.
+En main, recibe un número del 1 al 7 e imprime el 
+día correspondiente.

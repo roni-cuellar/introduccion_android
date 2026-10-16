@@ -1,0 +1,9 @@
+Presentación: 1 Android introducción(1).pdf
+Página: 76
+Ejercicio: 7
+
+Crear dos interfaces:
+●Volador con el método volar()
+●Nadador con el método nadar()
+Luego crear una clase Pato que implemente 
+ambas y prueba sus métodos.

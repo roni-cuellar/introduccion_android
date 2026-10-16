@@ -1,0 +1,11 @@
+Presentación: 1 Android introducción(1).pdf
+Página: 73
+Ejercicio: 4
+
+Crear un data class llamado Libro con propiedades titulo, 
+autor y año.
+●Instanciar varios libros.
+●Usar la función copy() para duplicar uno cambiando 
+solo el año de publicación.
+●Imprimir los objetos y analizar el toString() generado 
+automáticamente.
